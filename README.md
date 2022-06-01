@@ -15,4 +15,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Quando eu pensei que nuca iria amar o trabalho, eu conheci a programação, desde lá me apaixono cada dia mais pelo que faço.
+Quando pensei que nunca iria amar o trabalho eu conheci a programação, desde lá, me apaixono cada dia mais pelo que faço.
